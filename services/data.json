@@ -1,7 +1,6 @@
 {
 	"constants":{
 		"site_url" : "http://apptest.byethost14.com/laravel/api",
-		"site_image_url" : "http://apptest.byethost14.com/laravel/next_project/static/images/",
 		"image_url": "/static/images/",
 		"read_more" : "Read More",
 		"event_title": "Upcoming Events",
