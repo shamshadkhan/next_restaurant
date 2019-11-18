@@ -1,0 +1,170 @@
+{
+	"constants":{
+		"site_url" : "http://127.0.0.1:8000/api",
+		"image_url": "/static/images/",
+		"read_more" : "Read More",
+		"event_title": "Upcoming Events",
+		"testimonial_title": "Testimonials",
+		"price": "Price:",
+		"item": "Items",
+		"numbers" : {
+			"zero": 0,
+			"one" : 1
+		}
+	},
+	"menu":[
+		{
+			"title": "Restaurant",
+			"target": "/index"
+		},
+		{
+			"title": "Cuisine",
+			"target": "/cuisine"
+		}
+	],
+	"slider":[
+		{
+		"title" : "Italian Fettuccine",
+		"image" : "img1.jpg",
+		"subTitle": "Dish of the Day",
+		"description" : "Lorem ipsum dolamet consectetur adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore."
+		},
+		{
+		"title" : "succulent meat",
+		"image" : "img2.jpg",
+		"subTitle": "Dish of the Day",
+		"description" : "Lorem ipsum dolamet consectetur adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore."
+		},
+		{
+		"title" : "French-Style Tartlet",
+		"image" : "img3.jpg",
+		"subTitle": "Dish of the Day",
+		"description" : "Lorem ipsum dolamet consectetur adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore."
+		}
+	],
+	"service":[
+		{
+		"title" : "Welcome to Us!",
+		"image" : "page1_img1.jpg",
+		"description" : "Lorem ipsum dolamet consectetur adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore."
+		},
+		{
+		"title" : "About Us",
+		"image" : "page1_img2.jpg",
+		"description" : "Lorem ipsum dolamet consectetur adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore."
+		},
+		{
+		"title" : "Our Services",
+		"image" : "page1_img3.jpg",
+		"description" : "Lorem ipsum dolamet consectetur adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore."
+		}
+	],
+	"event":[
+		[
+			{
+				"image":"page1_img4.jpg",
+				"venue": "20.07. Sed perspiciatis",
+				"description": "Unde omnis iste natus error volu accusantium doloremque."
+			},
+			{
+				"image":"page1_img5.jpg",
+				"venue": "18.07. Quasi architecto",
+				"description": "Unde omnis iste natus error volu accusantium doloremque."
+			}
+		],
+		[
+			{
+				"image":"page1_img6.jpg",
+				"venue": "11.07. Laudaum totam",
+				"description": "Unde omnis iste natus error volu accusantium doloremque."
+			},
+			{
+				"image":"page1_img7.jpg",
+				"venue": "09.07. Volups asrnatur",
+				"description": "Unde omnis iste natus error volu accusantium doloremque."
+			}
+		]		
+	],
+	"testimonial": [
+		{
+			"description": "“Remperam eaquepsa quae abillo inventore vertatis.”",
+			"image":"signature1.jpg"
+		},
+		{
+			"description": "“Quasi arctecto beatae vitae dicta sunt explicabo.”",
+			"image":"signature2.jpg"
+		},
+		{
+			"description": "“Nemo enim ipsam voluptatem quia voluptas.”",
+			"image":"signature3.jpg"
+		}
+	],
+	"cuisine":[
+		{
+		"title" : "Did you Know",
+		"image" : "page2_img1.jpg",
+		"description" : "Lorem ipsum dolamet consectetur adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore."
+		},
+		{
+		"title" : "Types of Cuisine",
+		"image" : "page1_img2.jpg",
+		"description" : "Lorem ipsum dolamet consectetur adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore."
+		},
+		{
+		"title" : "Dish of the Day",
+		"image" : "page2_img2.jpg",
+		"description" : "Lorem ipsum dolamet consectetur adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore."
+		}
+	],
+	"cuisineMenu":[
+		{
+		"title" : "Japanese GaijinPot",
+		"image" : "menu1.jpg",
+		"price" : 12,
+		"discount": 1,
+		"discount_amount": 10
+		},
+		{
+		"title" : "American Bowls with Wild Alaskan Salmon",
+		"image" : "menu2.jpg",
+		"price" : 12,
+		"discount": 1,
+		"discount_amount": 10
+		},
+		{
+		"title" : "Shrim Ceviche",
+		"image" : "menu3.jpg",
+		"price" : 24,
+		"discount": 0,
+		"discount_amount": 0
+		},
+		{
+		"title" : "Chicken Bun Kebab",
+		"image" : "menu4.jpg",
+		"price" : 30,
+		"discount": 0,
+		"discount_amount": 0
+		},
+		{
+		"title" : "Meditteranian Salmon",
+		"image" : "menu5.jpg",
+		"price" : 12,
+		"discount": 1,
+		"discount_amount": 5
+		},
+		{
+		"title" : "Phillipine Rib-tip sandwich",
+		"image" : "menu6.jpg",
+		"price" : 6,
+		"discount": 1,
+		"discount_amount": 3
+		},
+		{
+		"title" : "Pakistani Samaa Digital",
+		"image" : "menu7.jpg",
+		"price" : 122,
+		"discount": 1,
+		"discount_amount": 10
+		}
+	]
+}

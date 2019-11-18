@@ -1,0 +1,24 @@
+.testimonials {
+	li {
+		span {float:left;
+			width:40px;
+			height:40px;
+			font-size:30px;
+			color:#faf3ed;
+			line-height:34px;
+			text-align:center;
+			background:#a80002;
+			margin-right:20px;
+		}
+		p {
+			float:left;
+			width:180px;
+			padding-bottom:15px;
+		}
+		img {
+			padding-top:2px;
+			width: 99px;
+			height:26px;
+		}
+	}
+} 

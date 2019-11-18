@@ -1,0 +1,75 @@
+/* Getting the new tags to behave */
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {display:block}
+
+/* header */
+.header {
+	height:121px;
+	padding-top:31px;
+	width:100%;
+	overflow:hidden;
+	#logo {
+		display:block;
+		background:url(/static/images/logo.png) 0 0 no-repeat;
+		width:259px;
+		height:94px;
+		color: red;
+		text-indent:-9999px;
+	}
+	#top_nav {
+		float:right;
+		padding:4px 43px 30px 0;
+	}
+	#top_nav li {
+		float:left;
+		padding:3px 26px 5px 0;
+		background:url(/static/images/top_line.gif) right 0 no-repeat;
+		margin-right:25px;
+		a {
+			display:block;
+			line-height:0;
+			span {
+				background:white;
+				padding: 5px;
+			    font-size: 11px;
+			    font-weight: bold;
+			    border-radius: 50%;
+			    margin-left: 5px;
+			}
+		}
+		.end {
+			background:none;
+			padding-right:0;
+			margin-right:0;
+		}
+		img {
+			width: 15px;
+			height: 13px;
+		}
+	}
+	#menu {
+		width:633px;
+		float:right;
+		padding:0px;
+		li {
+			float:left;
+			padding-left:3px;
+			a {
+				display:block;
+				font-size:24px;
+				color:#faf3ed;
+				line-height:40px;
+				padding:0 20px;
+				height:44px;
+				letter-spacing:-1px;
+			}
+			&:hover {
+				text-decoration:none;
+				background:url(/static/images/menu_bg.png) repeat;
+			}
+			.active a {
+				text-decoration:none;
+				background:url(/static/images/menu_bg.png) repeat;
+			}
+		}
+	}
+}

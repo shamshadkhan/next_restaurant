@@ -1,0 +1,21 @@
+/* footer */
+footer {
+	height:138px;
+	font:13px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#696969;
+	line-height:18px;
+	a {
+		color:#c53005;
+		text-decoration:underline;
+		&:hover {
+			text-decoration:none;
+		}
+	}
+	#icons {
+		padding:5px 0 0 0;
+		li {
+			float:left;
+			padding-right:9px;
+		}
+	}
+} 
