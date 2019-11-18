@@ -4,8 +4,7 @@ Description: Its a small project using Nextjs Framework redux,sagas,store for ru
 
 Procedure:
 1. Make sure the xampp is installed.
-2. Download first the backend project https://github.com/shamshadkhan/laravel
-3. Place the project in above project nextjs_project folder
+3. Place the project any directory
 3. Make sure api url is corrected in services/data.json in nextjs_project folder
 6. Run the project
      1. go to root directory of nextjs_project
