@@ -1,6 +1,6 @@
 {
 	"constants":{
-		"site_url" : "http://127.0.0.1:8000/api",
+		"site_url" : "http://apptest.byethost14.com/laravel/api",
 		"image_url": "/static/images/",
 		"read_more" : "Read More",
 		"event_title": "Upcoming Events",
