@@ -1,4 +1,3 @@
-import '../scss/event.scss';
 import data from '../services/data.json';
 import Event from './Event';
 import React, { Component } from 'react';
