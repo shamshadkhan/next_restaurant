@@ -1,4 +1,3 @@
-import '../scss/event.scss';
 import data from '../services/data.json';
 
 const Event = (event) => (
