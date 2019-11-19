@@ -12,4 +12,3 @@ Procedure:
      3. run command 'npm install'
      4. run command 'npm run dev'
      5. bash provides the url go to the url http://localhost:3000/
-    
