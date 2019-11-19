@@ -1,4 +1,4 @@
-import Footer from './Footer';
+import Footer from './footer';
 import '../scss/layout.scss';
 
 const FooterLayout = props => (

@@ -4,7 +4,7 @@ import '../scss/header.scss';
 import data from '../services/data.json';
 import { connect } from 'react-redux';
 import React, { Component } from 'react';
-import Cart from '../Components/cart';
+import Cart from '../components/cart';
 
 class Header extends Component{
 	constructor(){

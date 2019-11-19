@@ -1,4 +1,4 @@
-import Header from './Header';
+import Header from './header';
 import '../scss/layout.scss';
 
 const HeaderLayout = props => (

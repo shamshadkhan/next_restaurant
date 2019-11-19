@@ -1,5 +1,5 @@
 import data from '../services/data.json';
-import Event from './Event';
+import Event from './event';
 import React, { Component } from 'react';
 
 class EventWrapper extends Component {

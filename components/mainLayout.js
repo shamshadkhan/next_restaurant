@@ -1,5 +1,5 @@
-import HeaderLayout from './HeaderLayout';
-import FooterLayout from './FooterLayout';
+import HeaderLayout from './headerLayout';
+import FooterLayout from './footerLayout';
 import '../scss/layout.scss';
 
 const MainLayout = props => (
