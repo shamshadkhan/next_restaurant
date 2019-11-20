@@ -65,7 +65,8 @@
 						.css({
 							width:_.width=img.width(),
 							height:_.height=img.height(),
-							background:'url('+_.itms[_.show]+') 0 0 no-repeat'
+							background:'url('+_.itms[_.show]+') 0 0 no-repeat',
+							'background-size': 'cover'
 						})
 					img.remove()
 					_.current=_.buff=_.show
