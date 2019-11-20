@@ -21,7 +21,7 @@ class Slider extends Component {
 						{sliders.items.map(function(item, index){
 		                    return (
 		                    	<li key={index}>
-									<img src={data.constants.image_url+item.image} alt=""/>
+									<img src={data.constants.site_image_url+item.image} alt=""/>
 									<div className="banner">
 										<strong>{item.title}</strong>
 										<b>{item.subTitle}</b>

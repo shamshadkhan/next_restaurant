@@ -23,7 +23,7 @@ class CuisineMenu extends Component {
 							<div key={index} className="wrapper pad_bot1 cols">
 								<div className="menu-wrapper">
 									<figure className="menu-figure">
-										<img src={data.constants.image_url+item.image} alt=""/>
+										<img src={data.constants.site_image_url+item.image} alt=""/>
 										{
 											item.discount ? (
 													<div className="menu-discount">{item.discount_amount}% off Sale</div>

@@ -39,7 +39,7 @@ class Cart extends Component{
                                     return(
                                         <li key={index} className="clearfix">
                                             <div className="cart_product_name">
-                                                <img src={data.constants.image_url+item.image} alt="product image"/>
+                                                <img src={data.constants.site_image_url+item.image} alt="product image"/>
                                                 <span>
                                                     <strong><a href="#">{item.title}</a></strong><br></br>
                                                     Discount Percent: {item.discount_amount}<br></br>

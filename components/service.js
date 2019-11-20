@@ -9,7 +9,7 @@ const Service = (service) => (
 						<div className="box">
 							<div>
 								<h2>{item.title}</h2>
-								<figure><img src={data.constants.image_url+item.image} alt=""/></figure>
+								<figure><img src={data.constants.site_image_url+item.image} alt=""/></figure>
 								<p className="pad_bot1">{item.description}</p>
 								<a href="#" className="button1">{data.constants.read_more}</a>
 							</div>

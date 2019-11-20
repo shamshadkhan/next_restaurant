@@ -9,7 +9,7 @@ const Testimonial = (testimonial) => (
 						<span>{index+1}</span>
 						<p>
 							{item.description}
-							<img src={data.constants.image_url+item.image} alt=""/>
+							<img src={data.constants.site_image_url+item.image} alt=""/>
 						</p>
 					</li>
 				);
