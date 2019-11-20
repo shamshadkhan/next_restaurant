@@ -27,6 +27,7 @@ class Index extends React.Component {
 		this.state = {
 		  activePage: data.constants.numbers.one
 		};
+		this.props.dispatch(fetchCuisine(data.constants.numbers.one));
 	}
 
 	handlePageChange(page){
