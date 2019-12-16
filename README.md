@@ -13,6 +13,6 @@ Procedure:
      4. run command 'npm run dev'
      5. bash provides the url go to the url http://localhost:3000/
      
-Demo: https://nextjsproject.shamshadcse90.now.sh/
+Demo: https://nextjsproject.shamshadcse90.now.sh/index
 
 Note: Make sure the CORS is allowed through chrome extensions
