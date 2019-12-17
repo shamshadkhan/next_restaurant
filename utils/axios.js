@@ -4,6 +4,11 @@ import data from '../services/data.json';
 export default axios.create({
   baseURL: data.constants.site_url,
   responseType: "json",
+  withCredentials: true,
+  headers: { 
+       "Access-Control-Allow-Origin": "*",
+       "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept"
+   }
   // used below code for only free hosting url
 //   withCredentials: true,
 //   headers: {
