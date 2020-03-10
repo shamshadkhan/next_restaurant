@@ -14,4 +14,4 @@ Procedure:
      
 Demo: https://nextjsproject.shamshadcse90.now.sh/index
 
-Note: Make sure the CORS is allowed through chrome extensions
+Note: Make sure the CORS is allowed through chrome extensions, PLease refresh if does not appear. Freehosting causes CORS problem.
