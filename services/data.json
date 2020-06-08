@@ -1,7 +1,7 @@
 {
 	"constants":{
-		"site_url" : "https://laravel-57.000webhostapp.com/api",
-		"site_image_url" : "https://laravel-57.000webhostapp.com/nextjs_project/static/images/",
+		"site_url" : "http://apptest.byethost14.com/laravel/api",
+		"site_image_url" : "http://apptest.byethost14.com/laravel/nextjs_project/static/images/",
 		"image_url": "/static/images/",
 		"read_more" : "Read More",
 		"event_title": "Upcoming Events",
