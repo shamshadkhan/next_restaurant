@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.import.io/wp-content/uploads/2017/10/React-logo.png" width=300 height=100></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width=300 height=100></p>
 
 <p align="center">
 <a href="https://github.com/facebook/react/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Build Status"></a>
