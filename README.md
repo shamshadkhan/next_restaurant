@@ -16,7 +16,7 @@ Description: Its a small project using Nextjs Framework redux,sagas,store for ru
 1. Place the project any directory
 2. Make sure api url is corrected in services/data.json in nextjs_project folder
 3. Run the project
-     1. go to root directory of nextjs_project
+     1. go to root directory of root folder
      2. run git bash
      3. run command 'npm install'
      4. run command 'npm run dev'
