@@ -25,5 +25,3 @@ Description: Its a small project using Nextjs Framework redux,sagas,store for ru
 ## Demo
 
 https://nextjs-project.shamshadcse90.now.sh/
-
-Note: Make sure the CORS is allowed through chrome extensions, PLease refresh if does not appear. Freehosting causes CORS problem.
