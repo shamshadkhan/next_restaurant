@@ -25,3 +25,4 @@ Description: Its a small project using Nextjs Framework redux,sagas,store for ru
 ## Demo
 
 1. https://nextjs-project.shamshadcse90.now.sh/
+2. https://next-restaurant.herokuapp.com/
