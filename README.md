@@ -14,7 +14,7 @@ Description: Its a small project using Nextjs Framework redux,sagas,store for ru
 ## Procedure
 
 1. Place the project any directory
-2. Make sure api url is corrected in services/data.json in nextjs_project folder
+2. Make sure api url is corrected in services/data.json in Deliccio folder
 3. Run the project
      1. go to root directory of root folder
      2. run git bash
